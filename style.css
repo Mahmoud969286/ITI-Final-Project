@@ -1,0 +1,99 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#htmlInW {
+    background: url("image/2350054-Oct-Top-Products-BLOG.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#htmlInO {
+    background: url("image/1677238733511.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#htmlInA {
+    background: url("image/IMG-20250924-WA0001.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#htmlInC {
+    background: url("image/IMG-20250924-WA0000.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+nav {
+    text-align: center;
+    color: white;
+}
+
+nav h1 {
+    margin-right: 55px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 55px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+}
+
+input,
+textarea {
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: lightgrey;
+    padding: 8px;
+    width: 250px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-left: 40px;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+label {
+    margin-left: 15px;
+}
+
+#divInContact {
+    padding: 20px 10px;
+    margin: 40px 1050px 40px 40px;
+    background-color: rgb(89, 89, 89, 0.5);
+    border-radius: 5px;
+}
+
+#div2InContact {
+    padding: 20px 10px;
+    margin: 40px 1050px 40px 40px;
+    background-color: rgb(89, 89, 89, 0.5);
+    border-radius: 5px;
+}
+
+#navDiv {
+    padding: 20px 10px;
+    margin: 40px 40px;
+    background-color: rgb(89, 89, 89, 0.5);
+    border-radius: 5px;
+}
